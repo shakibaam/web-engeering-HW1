@@ -11,17 +11,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-
-
 
 
 
@@ -29,7 +18,9 @@
 ## About The Project
 
 
-This is a simple DHCP server and client simulation. I implemented it for computer network course spring 2021
+This is a simple DHCP server and client simulation. I implemented it for computer network course spring 2021<br/>
+The client can request to DHCP Server for being allocated the IP
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -48,20 +39,11 @@ This is a simple DHCP server and client simulation. I implemented it for compute
 
 <!-- GETTING STARTED -->
 ## Getting Started
-You can easily clone it and use it by terminal
+You can easily clone it and use it by terminal<br/>
+First run server and then run client<br/>
+you have to enter your mac address as input in clinet<br/>
+Then you can see magic :)
 
-
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
 
 ## Contributing
 
@@ -92,9 +74,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[@shakibaam79](https://twitter.com/shakibaam79) - amirshahishakiba@gmail.com
+amirshahishakiba@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/shakibaam/web-engeering-HW1)
+Project Link: [https://github.com/shakibaam/web-engeering-HW1](https://github.com/shakibaam/web-engeering-HW1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,8 +87,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/sh
 
 
 
-* [Introduction to DHCP](hhttps://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
-* [DHCP package python]https://pypi.org/project/dhcppython/)
+* [Introduction to DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+* [DHCP package python](https://pypi.org/project/dhcppython/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
