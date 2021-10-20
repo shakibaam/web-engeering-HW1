@@ -12,7 +12,7 @@ Then you can see magic :)
 
 ### SnapShot of how DHCP works
 
-![alt text](https://github.com/shakibaam/web-engeering-HW1/blob/main/dhcp.png)
+![dhcp_image](https://github.com/shakibaam/web-engeering-HW1/blob/gh-pages/dhcp.png)
 
 
 ### Support or Contact
