@@ -22,8 +22,6 @@ This is a simple DHCP server and client simulation. I implemented it for compute
 The client can request to DHCP Server for being allocated the IP
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -33,7 +31,7 @@ The client can request to DHCP Server for being allocated the IP
 * [Python](https://www.python.org/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -58,7 +56,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -67,7 +64,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -78,7 +75,7 @@ amirshahishakiba@gmail.com
 
 Project Link: [https://github.com/shakibaam/web-engeering-HW1](https://github.com/shakibaam/web-engeering-HW1)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -91,7 +88,6 @@ Project Link: [https://github.com/shakibaam/web-engeering-HW1](https://github.co
 * [DHCP package python](https://pypi.org/project/dhcppython/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
