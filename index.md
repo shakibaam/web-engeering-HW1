@@ -1,37 +1,22 @@
-## Welcome to DHCP Project Site
+# Welcome to DHCP Project Site
 
-You can use the [editor on GitHub](https://github.com/shakibaam/web-engeering-HW1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a simple DHCP server and client simulation. I implemented it for computer network course spring 2021
+The client can request to DHCP Server for being allocated the IP
+This Project is Implemented in python from scratch and without any library ;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting Started
+You can easily clone it and use it by terminal<br/>
+First run server and then run client<br/>
+you have to enter your mac address as input in clinet<br/>
+Then you can see magic :)
 
-### Markdown
+### SnapShot of how DHCP works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](https://github.com/shakibaam/web-engeering-HW1/blob/main/dhcp.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shakibaam/web-engeering-HW1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+amirshahishakiba@gmail.com<br/>
+https://github.com/shakibaam/web-engeering-HW1
+
